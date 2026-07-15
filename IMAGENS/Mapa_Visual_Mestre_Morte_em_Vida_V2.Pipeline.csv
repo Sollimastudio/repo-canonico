@@ -1,0 +1,9 @@
+Etapa,Status,Entregável,Dependência
+1. Triagem do acervo bruto,concluída,Inventário de 44 imagens locais,Arquivos presentes no workspace
+2. Decisão de estilo,concluída,Realismo editorial cinematográfico,Análise editorial já feita
+3. Banco visual canônico,em andamento,Mapa Visual Mestre V2,Aprovação da autora e repo oficial
+4. Seleção por capítulo,pendente,IDs atribuídos por ato e capítulo,Texto estabilizado do ato
+5. Produção de reconstituições,pendente,Lotes por ato,Storyboard e prompts mestres
+6. Tratamento de fotos reais,pendente,Versões documentais tratadas,Escolha das fotos autorizadas
+7. Integração no layout,pendente,Projeto gráfico com imagens,Texto fechado
+8. QA visual final,pendente,Revisão do conjunto texto+imagem,Layout consolidado
