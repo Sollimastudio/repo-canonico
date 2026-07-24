@@ -48,6 +48,19 @@ Também foram preservados no encerramento:
 
 Esses conteúdos continuam destinados a **Fuga Identitária**.
 
+## Arquivos materializados fora do repositório
+
+Foi gerado um pacote de inspeção contendo:
+
+- o Capítulo 19 antes;
+- o Capítulo 19 depois;
+- comparação resumida;
+- diff unificado linha a linha;
+- manifesto da cópia controlada;
+- hashes SHA-256.
+
+SHA-256 do pacote ZIP: `af35c5148772f8b2d4ca69076dbbee5a3192f41c4cb59675528b22c92cfd3296`.
+
 ## Veredito de integridade
 
 O Patch 001 foi aplicado apenas ao intervalo político do Capítulo 19. O manuscrito-base permanece imutável e os demais capítulos não foram reescritos.
