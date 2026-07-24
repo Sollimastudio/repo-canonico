@@ -38,10 +38,11 @@ O pacote materializado contém:
 4. diff unificado;
 5. arquivo de hashes SHA-256.
 
-## Integridade do capítulo
+## Integridade
 
-- SHA-256 antes: `a27b11b7c583be84448b946b154593917e6a393f7aaf00ce0ab65499a8540cfd`
-- SHA-256 depois: `7df5ccb096ccbc58f437a1d44ab5aeb85d2003f0ddc4d192ee735bdf21d0329b`
+- SHA-256 do Capítulo 19 antes: `a27b11b7c583be84448b946b154593917e6a393f7aaf00ce0ab65499a8540cfd`
+- SHA-256 do Capítulo 19 depois: `7df5ccb096ccbc58f437a1d44ab5aeb85d2003f0ddc4d192ee735bdf21d0329b`
+- SHA-256 do pacote ZIP: `af35c5148772f8b2d4ca69076dbbee5a3192f41c4cb59675528b22c92cfd3296`
 - Linhas antes: 194
 - Linhas depois: 436
 
