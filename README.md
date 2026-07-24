@@ -1,14 +1,22 @@
 # Repositório Canônico — Trilogia Relacione-se®
 
-Fonte oficial da obra **Morte em Vida — A Anatomia de um Feminicídio Emocional** e de sua governança editorial.
+Fonte oficial da governança editorial e da consolidação canônica das obras de Sol Lima.
 
-## Estrutura inicial
+## Obras
 
-- `MORTE_EM_VIDA/` — manuscrito canônico e revisão viva corrente;
-- `BIBLIA/` — Bíblia da obra e Constituição Editorial;
+- `MORTE_EM_VIDA/` — autobiografia literária e anatomia do Feminicídio Emocional;
+- `REPOSICIONE-SE/` — Método da Árvore do Discernimento, posicionamento e reconstrução;
+- `FUGA_IDENTITARIA/` — corpus sobre desaparecimento do eu em grupos, ideologias e algoritmos;
+- `BIBLIA/` — Bíblia da trilogia, constituições de voz, fronteiras e decisões governantes;
 - `IMAGENS/` — banco visual e mapa de referências;
-- `PROMPTS/` — Prompt Mestre, instruções operacionais e skills.
+- `PROMPTS/` — instruções operacionais, certificação e skills;
+- `PATRIMONIO/` — versões históricas congeladas e materiais recuperáveis;
+- `RELATORIOS/` — auditorias, matrizes de cobertura, cortes, migrações e QA.
 
 ## Regra de integridade
 
-O manuscrito canônico é imutável. Toda edição deve gerar uma derivação numerada, relatório, arquivo restrito de cortes, QA e hash SHA-256.
+Nenhuma nova versão integral será criada como método de revisão.
+
+Cada obra terá um único manuscrito mestre editável. Versões históricas permanecem congeladas. Toda alteração deve registrar origem, destino, justificativa, risco de perda e validação de voz.
+
+**Lei suprema:** nenhuma melhoria pode destruir a identidade da obra.
