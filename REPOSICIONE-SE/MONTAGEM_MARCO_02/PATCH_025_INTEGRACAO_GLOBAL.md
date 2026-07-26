@@ -15,6 +15,7 @@ Este patch não reabre a tese dos capítulos. Corrige resíduos de montagem, con
 5. **Capítulo 24:** repetição integral da Lei 11 retirada; permaneceu sua aplicação específica à dor, ao recurso, à proteção e ao tempo.
 6. **Capítulo 27:** linguagem de bastidor “sai do cânone” retirada; permanece a afirmação de que o Filtro não é infalível, não é reprodução de versículo nem garantia divina de acerto.
 7. **Capítulo 30:** metadados do Patch 002 removidos do corpo leitor.
+8. **Capítulo 29:** a exclusão de rótulos diagnósticos foi reescrita para o leitor, sem “versões antigas” ou “não entram no cânone”; permanece a proibição de usar `narcisista` e `manipulador` como Tipos literários.
 
 ## Resultado
 
@@ -25,13 +26,14 @@ Este patch não reabre a tese dos capítulos. Corrige resíduos de montagem, con
 - nenhuma definição concorrente da Lei 11;
 - nenhuma Jaula histórica declarada absorvida ainda operando como gatilho;
 - nenhum metadado de patch no corpo leitor;
+- nenhuma linguagem de bastidor sobre versões ou cânone;
 - nenhuma promessa de posicionamento magnético;
 - nenhuma linguagem de curso;
 - nenhuma formulação de culpa total.
 
 ## Hash do manuscrito aplicado — Marco 02
 
-`5920d710a16db7d69510aa19b4e245a97050d8294ec9f58fd20ab4403f8540b1`
+`6e0297a3a4889779711d23a28b962713fb2442e8b2246e9cf83311cabfe80ca7`
 
 ## Trava
 
